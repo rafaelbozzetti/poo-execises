@@ -1,0 +1,18 @@
+{
+    "name": "rafaelbozzetti/poo",
+    "description": "POO exercises",
+    "authors": [
+        {
+            "name": "Rafael Pereira Bozzetti",
+            "email": "rafaelbozzetti@gmail.com"
+        }
+    ],
+    "require": {
+        "squizlabs/php_codesniffer": "^3.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Poo\\Html\\": "src"
+        }
+    }
+}
