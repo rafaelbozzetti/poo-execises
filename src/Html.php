@@ -1,6 +1,6 @@
 <?php
-namespace Poo\Html;
 
+namespace Poo\Html;
 
 class Html {
     
